@@ -3,6 +3,7 @@ Buffer is a Data Structures and Algorithms Project series, in which students can
 This year the themes on which students can create a project are-
 
 Team Name: Code_Eilte
+
 Team Members :Member:1
               Name:Tulsi Kabade
               Year:SY
@@ -11,6 +12,7 @@ Team Members :Member:1
               Name:Swati Karad
               Year:SY
               Branch:Computer.
+
 1. Healthcare
 2. Digital Society
 3. Open Innovation
@@ -22,6 +24,7 @@ This repository is created for all the teams to be able to upload their final pr
 Project Title : Resource Allocation and Utilization in Hospital:A Comprehensive Management System.
 
 Drive Link of Report ,Video and Presentation:
+https://drive.google.com/drive/folders/1osOwjlU9LvE7GeaQHv8QsG2Q9fp9CI50?usp=share_link
 
 Project Description:
 Our project titled "Resource Allocation and Utilization in Hospitals: A ComprehensiveManagement System" is a software system that aims to improve the management of resourcesin hospitals. The system uses data structures to store and manipulate the data necessary for managing hospital resources, including Patient data.The system is designed to address the challenges of managing resources in a hospital setting, where resources are often limited, and demand can be unpredictable. The system provides a
