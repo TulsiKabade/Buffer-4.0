@@ -3,19 +3,14 @@ Buffer is a Data Structures and Algorithms Project series, in which students can
 This year the themes on which students can create a project are-
 
 Team Name: Code_Eilte
-
-Team Members :
-              Member 1:
+Team Members :Member:1
               Name:Tulsi Kabade
-              Year:S.Y
+              Year:SY
               Branch:ENTC
-              
-              Member 2:
+              Member:2
               Name:Swati Karad
-              Year:S.Y
-              Branch:Computer Science
-
-
+              Year:SY
+              Branch:Computer.
 1. Healthcare
 2. Digital Society
 3. Open Innovation
